@@ -1,0 +1,30 @@
+{
+  "name": "rest-example",
+  "version": "1.0.0",
+  "description": "Node.js - RESTful API",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gil-cunha/rest-example.git"
+  },
+  "keywords": [
+    "REST",
+    "RESTful",
+    "Web",
+    "Services",
+    "API"
+  ],
+  "author": "Gil Cunha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gil-cunha/rest-example/issues"
+  },
+  "homepage": "https://github.com/gil-cunha/rest-example#readme",
+  "dependencies": {
+    "express.js": "^1.0.0"
+  }
+}
